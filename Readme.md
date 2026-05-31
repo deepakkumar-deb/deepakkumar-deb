@@ -87,14 +87,6 @@
 
 ---
 
-<div align="center">
-
-*"The best systems don't just work — they think."*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=deepakkumar-deb&label=Profile+Views&color=302b63&style=flat)
-
-</div>
+<p align="center">⭐️ From <a href="https://github.com/deepakkumar-deb">deepakkumar-deb</a></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
