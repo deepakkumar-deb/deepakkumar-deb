@@ -87,10 +87,6 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/deepakkumar-deb">deepakkumar-deb</a></p>
-
----
-
 <div align="center">
 
 *"The best systems don't just work — they think."*
