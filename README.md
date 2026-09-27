@@ -76,9 +76,7 @@
 
 ---
 
-### 📈 Activity & Contribution Graphs
-
-#### 🌊 Dynamic Activity Curve
+### 📈 Activity & Contribution Graph
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=deepakkumar-deb&theme=react-dark&hide_border=true&area=true" width="95%" alt="Deepak's Activity Graph" />
 </p>
