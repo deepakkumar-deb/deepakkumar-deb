@@ -83,13 +83,6 @@
   <img src="https://activity-graph.vercel.app/graph?username=deepakkumar-deb&theme=react-dark&hide_border=true&area=true" width="95%" alt="Deepak's Activity Graph" />
 </p>
 
-#### 🟩 Neon Contribution Heatmap
-<p align="center">
-  <a href="https://github.com/deepakkumar-deb">
-    <img src="https://ghchart.rshah.org/38bdf8/deepakkumar-deb" alt="Deepak's Contribution Heatmap" width="95%" />
-  </a>
-</p>
-
 ---
 
 ### 🔥 GitHub Streak & Analytics
